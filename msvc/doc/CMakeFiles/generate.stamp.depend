@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Development/op3d_active/json-c-0.15/doc/CMakeLists.txt
+C:/Program Files/CMake/share/cmake-3.14/Modules/FindDoxygen.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/FindPackageMessage.cmake

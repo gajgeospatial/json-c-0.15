@@ -1,0 +1,1 @@
+This project should be installed as JSON_DIR with ProjectTool.
